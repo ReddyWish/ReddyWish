@@ -1,12 +1,7 @@
 ###### 👋 Hey, I’m Ilya, aka @ReddyWish
 ### 🧘 Frontend Developer, JS Enthusiast
-🌱 Constantly learning ∞
 
 📍 Barcelona, Spain
-
-###### 📎Fun facts: 
-- I'm all about single-color t-shirts
-- My nickname is just mashup of my lovely dogs names 🐶🐶
 
 ### Familiar With
 
