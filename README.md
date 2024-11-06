@@ -3,8 +3,6 @@
 
 📍 Barcelona, Spain
 
-### Familiar With
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,mongodb,nextjs,nodejs)](https://skillicons.dev)
 
 
